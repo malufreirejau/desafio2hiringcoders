@@ -1,0 +1,33 @@
+{
+    "Produtos": [
+        {
+            "id": 1,
+            "photo": "https://bomdebeer.vteximg.com.br/arquivos/ids/156055-400-400/Kit-ampolis-6-cervejas-2-copos-e-balde-2.jpg?v=637229840272500000",
+            "name": "Cacilds Capsulis",
+            "description":"Descrição do produto",
+            "price": "R$ 140,00"
+        },
+         {
+            "id": 2,
+            "photo": "https://bomdebeer.vteximg.com.br/arquivos/ids/156141-400-400/Kit-Presente-Cacildis-2.jpg?v=637315685192400000",
+            "name": "Cacilds Presente",
+            "description":"Descrição do produto",
+            "price": "R$ 140,00"
+        },
+         {
+            "id": 3,
+            "photo": "https://bomdebeer.vteximg.com.br/arquivos/ids/156571-1000-1000/Kit-3-Petra-Origem-Bar-Doce-Lar-com-9-itens-9930003_1.png?v=637575556320470000",
+            "name": "Petra Balde",
+            "description":"Descrição do produto",
+            "price": "R$ 140,00"
+        },
+         {
+            "id": 4,
+            "photo": "https://bomdebeer.vteximg.com.br/arquivos/ids/155750-400-400/kit-6-cacildis-lata-350-2-copos.jpg?v=637158463307500000",
+            "name": "Cacilds Lata",
+            "description":"Descrição do produto",
+            "price": "R$ 140,00"
+        }
+
+    ]
+}
